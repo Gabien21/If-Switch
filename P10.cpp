@@ -1,3 +1,9 @@
+//Nhập vào ngày, tháng của năm hiện tại, thực hiện:
+//Kiểm tra tính hợp lệ ngày, tháng nhập
+//Cho biết tháng nhập có bao nhiêu ngày
+//Cho biết ngày hôm sau của ngày đã nhập là ngày nào
+//Cho biết ngày hôm trước của ngày đã nhập là ngày nào.
+
 #include <iostream>
 using namespace std;
 
