@@ -1,3 +1,9 @@
+//Tính tiền thuê phòng khi biết số ngày thuê và loại phòng (A, B, C), biết:
+//Loại A: 400.000 đ/ngày
+//Loại B: 300.000 đ/ngày
+//Loại C: 250.000 đ/ngày
+//Nếu thuê quá 12 ngày thì phần trăm được giảm trên tổng số tiền (theo giá quy định) là: 10% cho loại A, 8% cho loại B hay C.
+
 #include <iostream>
 using namespace std;
 
