@@ -1,3 +1,4 @@
+//Tinh S = (x^2 + 1)^n
 #include <iostream>
 using namespace std;
 
