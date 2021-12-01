@@ -1,3 +1,5 @@
+//Giải phương trình bậc 2: ax^2 + bx + c = 0.
+
 #include <iostream>
 #include <math.h>
 using namespace std;
