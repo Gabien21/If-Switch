@@ -1,3 +1,9 @@
+//Tính tiền đi taxi từ số km đã được nhập vào, biết:
+//1 km đầu giá 15000đ
+//Từ km thứ 2 đến km thứ 5 giá 13500đ
+//Từ km thứ 6 trở đi giá 11000đ
+//Nếu đi hơn 120km sẽ được giảm 10% trên tổng số tiền.
+
 #include <iostream>
 #include <cmath>
 #include <iomanip>
