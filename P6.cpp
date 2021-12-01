@@ -1,3 +1,11 @@
+//Xếp loại các học sinh trong lớp. Nhập vào họ tên, điểm Toán, Lý, Hóa của từng·học sinh. Tính điểm trung bình 3 môn và phân loại như sau:
+//xuất sắc: đtb >=9.0
+//giỏi: 9.0 > đtb >= 8.0
+//khá: 8.0 > đtb >= 6.5
+//trung bình: 6.5 > đtb >= 5.0
+//yếu: 5.0 > đtb >= 3.0
+//kém: 3.5 > đtb
+
 #include <iostream>
 #include <cmath>
 using namespace std;
