@@ -1,3 +1,5 @@
+//Nhập 1 chữ cái, nếu là chữ thường thì đổi thành chữ hoa, ngược lại thì đổi thành chữ thường.
+
 #include <iostream>
 using namespace std;
 
