@@ -1,3 +1,8 @@
+//Tính cước truy cập Internet, nhập vào thời gian bắt đầu và kết thúc truy cập, gồm số giờ và số phút, với cách tính như sau:
+//Từ 7 giờ – 17 giờ: 100 đ/phút, giảm giá 10% nếu thời gian truy cập > 6h
+//Từ 17 giờ – 24 giờ: 75 đ/phút, giảm giá 12% nếu thời gian truy cập > 4h
+//Từ 0 giờ – 7 giờ: 50 đ/phút, giảm giá 15% nếu thời gian truy cập > 2h.
+
 #include <iostream>
 using namespace std;
 
