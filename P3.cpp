@@ -1,3 +1,7 @@
+//Nhập vào độ dài 3 cạnh a, b, c của một tam giác.
+//Kiểm tra 3 cạnh đó có hợp lệ không?
+//Nếu có, cho biết loại tam giác này (thường, cân, vuông, đều, vuông cân).
+
 #include <iostream>
 #include <math.h>
 using namespace std;
