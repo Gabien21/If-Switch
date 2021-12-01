@@ -1,3 +1,5 @@
+//Nhập vào một tháng, cho biết tháng đó thuộc mùa nào trong năm, thông báo nếu tháng nhập vào không hợp lệ.
+
 #include <iostream>
 using namespace std;
 
